@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fernando TC
-- 👀 I’m interested in Web development & Data Science
+- 👀 I’m interested in Web development & Cyber Security
 - 🌱 I’m currently learning Html/Css/Js/Python
 
 
