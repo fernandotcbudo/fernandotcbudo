@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Fernando TC
-- 👀 I’m interested in Web development & Cyber Security
-- 🌱 I’m currently learning Html/Css/Js/Python
+- 👋 Hi, I’m Fernando TC.
+- 👀 Interested in applying business analytics & GenAI to enhance Customer Experience.
+- 🌱 I’m currently learning Data science, Python, App integrations & Web technologies.
 
 
 <!---
